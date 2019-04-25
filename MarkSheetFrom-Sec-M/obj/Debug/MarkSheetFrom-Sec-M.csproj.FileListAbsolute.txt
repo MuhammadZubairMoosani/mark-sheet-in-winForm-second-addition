@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2015\Projects\MarkSheetFrom-Sec-M\MarkSheetFrom-Sec-M\bin\Debug\MarkSheetFrom-Sec-M.exe.config
+C:\Users\admin\Documents\Visual Studio 2015\Projects\MarkSheetFrom-Sec-M\MarkSheetFrom-Sec-M\obj\Debug\MarkSheetFrom-Sec-M.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2015\Projects\MarkSheetFrom-Sec-M\MarkSheetFrom-Sec-M\obj\Debug\MarkSheetFrom_Sec_M.Form1.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\MarkSheetFrom-Sec-M\MarkSheetFrom-Sec-M\obj\Debug\MarkSheetFrom_Sec_M.Properties.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\MarkSheetFrom-Sec-M\MarkSheetFrom-Sec-M\obj\Debug\MarkSheetFrom-Sec-M.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2015\Projects\MarkSheetFrom-Sec-M\MarkSheetFrom-Sec-M\bin\Debug\MarkSheetFrom-Sec-M.exe
+C:\Users\admin\Documents\Visual Studio 2015\Projects\MarkSheetFrom-Sec-M\MarkSheetFrom-Sec-M\bin\Debug\MarkSheetFrom-Sec-M.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\MarkSheetFrom-Sec-M\MarkSheetFrom-Sec-M\obj\Debug\MarkSheetFrom-Sec-M.exe
+C:\Users\admin\Documents\Visual Studio 2015\Projects\MarkSheetFrom-Sec-M\MarkSheetFrom-Sec-M\obj\Debug\MarkSheetFrom-Sec-M.pdb
